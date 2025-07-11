@@ -1,5 +1,8 @@
-# Maze-Pad
+# Maze-Pad amde by @TheVirtuoso on slack, Vikas IRL
 A general spin on a macro-pad, with a fully customised case, PCB, and Firmware. It should also be fully assemblable and useable less than 20 mins after getting everything
+
+Here is the fll cad model to view before you download anything or want a deeper look
+https://cad.onshape.com/documents/6287fe38e10122eb28751222/w/de1210ab97eae6cc3d55f10b/e/6d662cd5a03a31552cd37cf9?renderMode=0&uiState=6870f455865e332e32c38080
 
 # sob story/ why im making this
 im a broke highschool student while simultaniously being the youngest in my family often what this mean is all  (if not most) of the technology i own is either a hand-me-down, something i bought myself or something i 'borrowed without the intention of returning' to prove this point want to guess what my current keyboard and mouse look like? Wrong its one of those chunky school keyboard and mice combos that your school bulk buys for there comp room. aside i rly needed an upgrade so i decide to stop being a lazy and work on something. further down the line i also plan on making a keyboard so i kind of treated this as a 'test' run so i could learn the ropes and all
