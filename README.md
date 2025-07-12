@@ -1,8 +1,9 @@
 # Maze-Pad made by @TheVirtuoso on slack, Vikas IRL
 A general spin on a macro-pad, with a fully customised case, PCB, and Firmware. It should also be fully assemblable and useable less than 20 mins after getting everything
 
-<img width="400" height="380" alt="Screenshot 2025-07-12 121642" src="https://github.com/user-attachments/assets/d27cb808-3dae-4643-a974-1ec60397d090" />
-<img width="400" height="390" alt="Screenshot 2025-07-12 121719" src="https://github.com/user-attachments/assets/666b0627-b9bd-476d-a23f-5755f4740f37" />
+<img width="400" height="300" alt="Screenshot 2025-07-12 121642" src="https://github.com/user-attachments/assets/d27cb808-3dae-4643-a974-1ec60397d090" />
+<img width="400" height="300" alt="Screenshot 2025-07-12 121719" src="https://github.com/user-attachments/assets/666b0627-b9bd-476d-a23f-5755f4740f37" />
+<img width="601" height="300" alt="image" src="https://github.com/user-attachments/assets/a4c0853c-d12f-4e56-9802-27ff78b57178" />
 
 
 Here is the full cad model to view before you download anything or want a deeper look
