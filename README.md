@@ -24,11 +24,15 @@ im a broke highschool student while simultaniously being the youngest in my fami
   - 2 leds (Neo pixels) which are poorly spaced apart
   - Hopefully smd mounted Xiao
   - diodes at the back
+  - <img width="300" height="679" alt="image" src="https://github.com/user-attachments/assets/b8c6a216-6969-4190-bb99-2917d527e922" />
 
 # Specification /cool gimicks (Mechanical)
 - fully custom case which doesnt require screws, Bolts or glue (i designed the case based on cool woodworking stuff)
 - 7 fully custom mazes for your ADHD
 - Custom Maze themed keycaps
+<img width="200" height="468" alt="Screenshot 2025-07-12 122523" src="https://github.com/user-attachments/assets/cf54f83f-bff7-41d0-961c-ffcba8d5a6d0" />
+<img width="200" height="453" alt="Screenshot 2025-07-12 122512" src="https://github.com/user-attachments/assets/11bb8984-d1f3-4b41-9faf-fb663d713454" />
+
 - Groves on the side
 - maximum fillets
 - high mounted cover (this is on purpose i swear, its so it fits my stuff)
@@ -36,15 +40,15 @@ im a broke highschool student while simultaniously being the youngest in my fami
 - backlighting
 - funni logos and names
 - its black, and white
+ <img width="612" height="135" alt="image" src="https://github.com/user-attachments/assets/cce1168c-ff10-48bb-a32f-555ca18daedf" />
 
-# general pictures
 
 
 # instruction to build
 ngl if ur building this ur either chonicaly lazy or are collecting hackpads liek infinity stones cos like it cannot be that hard to build your ow. *Aside*
-1.plug in your xiao and hold the boot button (clickty clackity on the right) then move the entire firmware folder into the xiao
-2.assemble the easy stuff ie the keycaps and put them of the switches
-3.place the pcb and all soldered part attacked to it into the main bases (the chunky 3D print)
+1. plug in your xiao and hold the boot button (clickty clackity on the right) then move the entire firmware folder into the xiao
+2. assemble the easy stuff ie the keycaps and put them of the switches
+3. place the pcb and all soldered part attacked to it into the main bases (the chunky 3D print)
 5. in the allocated slot add the side connector thing thats white and the other white part, for the small bridge if u want the random logoing i put use that side if not rotate it 180 and place it
 6. place the case lid and test
 7. place small bearing balls into all the mazes
