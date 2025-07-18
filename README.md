@@ -1,5 +1,5 @@
 # Maze-Pad made by @TheVirtuoso on slack, Vikas IRL
-A general spin on a macro-pad, with a fully customised case, PCB, and Firmware. It should also be fully assemblable and useable less than 20 mins after getting everything
+A general spin on a macro-pad, with a fully customised case, PCB, and Firmware. It should also be fully assemblable and useable less than 20 mins after getting everything. Big thanks to Hack Club (Highway) and PCBway for helping me make this
 
 <img width="400" height="300" alt="Screenshot 2025-07-12 121642" src="https://github.com/user-attachments/assets/d27cb808-3dae-4643-a974-1ec60397d090" />
 <img width="400" height="300" alt="Screenshot 2025-07-12 121719" src="https://github.com/user-attachments/assets/666b0627-b9bd-476d-a23f-5755f4740f37" />
@@ -64,7 +64,7 @@ ngl if ur building this ur either chonicaly lazy or are collecting hackpads liek
 |Seeed XIAO RP2040 x1 ||("")|
 |SK6812 MINI-E LEDs x2 ||("")|
 |3D Printing| none|Printing legion|
-|PCB|$18|JLPCB <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/984df046-567e-444d-95e3-150a55261df8" /> |
+|PCB|??$|PCBWAY, Im getting sponsered :D < |
 |Solder Iron|??|???|
 |Flux|$1.53|"https://www.aliexpress.com/item/1005008783332875.html?spm=a2g0o.productlist.main.15.eab81f2bCFhjVT&algo_pvid=45cc1b00-6bcf-43ca-b888-5c4e79205a33&algo_exp_id=45cc1b00-6bcf-43ca-b888-5c4e79205a33-14&pdp_ext_f=%7B"order"%3A"231"%2C"eval"%3A"1"%7D&pdp_npi=4%40dis%21AUD%217.41%211.53%21%21%2134.52%217.16%21%40212e508d17522305550312149ef5c6%2112000046648707772%21sea%21AU%210%21ABX&curPageLogUid=8c35HYaTwcCc&utparam-url=scene%3Asearch%7Cquery_from%3A"|
 |Solder|$1.53| https://www.aliexpress.com/item/1005007703287757.html?spm=a2g0o.productlist.main.12.65f06325LWNWpv&algo_pvid=0f0b2a51-30e8-41ca-9b4d-5341719839aa&algo_exp_id=0f0b2a51-30e8-41ca-9b4d-5341719839aa-11&pdp_ext_f=%7B"order"%3A"3030"%2C"eval"%3A"1"%7D&pdp_npi=4%40dis%21AUD%216.45%211.53%21%21%2130.03%217.13%21%400b1bf20817522311015765496e776c%2112000041915671265%21sea%21AU%210%21ABX&curPageLogUid=g3sCp5CWQzIl&utparam-url=scene%3Asearch%7Cquery_from%3A|
